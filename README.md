@@ -28,6 +28,7 @@ Resources for getting started in vulnerability research on embedded systems and 
 * [Voidstar Security Research Blog](https://voidstarsec.com/blog/)
 * [Wrongbaud Security Research Blog](https://wrongbaud.github.io/)
 * [Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device](https://boschko.ca/qemu-emulating-firmware/)
+* [Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
 
 ## Tools
 
